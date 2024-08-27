@@ -1,0 +1,74 @@
+[
+    {
+        "type": "START",
+        "id": "ABC123",
+        "timestamp": "1681722000",
+        "comments": "No issues - brand new and shiny!"
+    },
+    {
+        "type": "END",
+        "id": "ABC123",
+        "timestamp": "1681743600",
+        "comments": "Car is missing both front wheels!"
+    },
+    {
+        "type": "START",
+        "id": "ABC456",
+        "timestamp": "1680343200",
+        "comments": "Small dent on passenger door"
+    },
+    {
+        "type": "END",
+        "id": "1680382800",
+        "timestamp": "0123499",
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "DEF789",
+        "timestamp": "1681810000",
+        "comments": "Minor scratches on rear bumper"
+    },
+    {
+        "type": "END",
+        "id": "DEF789",
+        "timestamp": "1681827200",
+        "comments": "Fuel tank was not full on return"
+    },
+    {
+        "type": "START",
+        "id": "GHI012",
+        "timestamp": "1681904400",
+        "comments": "Stains on upholstery"
+    },
+    {
+        "type": "END",
+        "id": "GHI012",
+        "timestamp": "1681933200",
+        "comments": "Cracked windshield"
+    },
+    {
+        "type": "START",
+        "id": "JKL345",
+        "timestamp": "1681995600",
+        "comments": "Ding on driver's side door"
+    },
+    {
+        "type": "END",
+        "id": "JKL345",
+        "timestamp": "1682031600",
+        "comments": ""
+    },
+    {
+        "type": "START",
+        "id": "MNO678",
+        "timestamp": "1682102400",
+        "comments": "Strong smell of smoke"
+    },
+    {
+        "type": "END",
+        "id": "MNO678",
+        "timestamp": "1697132790",
+        "comments": "Cigarette burns on seats"
+    }
+]
